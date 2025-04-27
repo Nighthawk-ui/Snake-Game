@@ -1,0 +1,13 @@
+body {
+    text-align:center;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#myCanvas {
+    background-color: black;
+    width: 512px;
+    height: 512px;
+}
